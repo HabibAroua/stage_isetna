@@ -8,5 +8,6 @@ namespace stage_isetna.Business
 {
     class Etudiant
     {
+
     }
 }
